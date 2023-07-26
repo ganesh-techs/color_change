@@ -1,0 +1,25 @@
+body
+{
+    background-image:url(mountain.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    max-height: 100px;
+}
+.text
+{
+    /* background-color:rgba(240, 248, 255, 0.448); */
+    transform: translateY(200px)translateX(640px);
+}
+.col
+{
+    /* background-color: rgba(230, 16, 16, 0.492); */
+    height: 800px;
+    width:1531px;
+    transform:translateX(-50px)translateY(-50px);
+}
+.col h1
+{
+    color: whitesmoke;
+    font-size: 80px;
+    transform:translateX(-210px)translateY(80px);
+}
